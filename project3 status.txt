@@ -1,0 +1,14 @@
+							Project:3 (27-06-2022)14:04
+							    (Shopping Cards)
+1.UseReducer(is alternative of the useState)
+		*what is usereducer hook
+		*syntax of usereducer
+		*when you should use this
+		*we will create one counter example to understand usereducer better.
+
+
+
+					-------day end--- 00:33 almost done good 
+
+
+useState is basically one of the fundamental react hook that basically manage your state in react components.

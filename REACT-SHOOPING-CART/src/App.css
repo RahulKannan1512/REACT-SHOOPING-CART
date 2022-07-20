@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+html,body{
+  height: 100%;
+  width: 100%;
+}
+
+#root, .App{
+  height: 100%;
+}
+
+.button-wrapper-light {
+  display: flex;
+  justify-content: flex-end;
+  height: 20px;
+  padding: 20px;
+  border-bottom: 1px solid rgb(99, 98, 98);
+  background: #ffffff;
+}
+
+.button-wrapper-dark {
+  display: flex;
+  justify-content: flex-end;
+  height: 20px;
+  padding: 20px;
+  border-bottom: 1px solid rgb(99, 98, 98);
+  background: #c2bebe;
+}
+
+.page-content-wrapper{
+  height: calc(100% - 60px);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
